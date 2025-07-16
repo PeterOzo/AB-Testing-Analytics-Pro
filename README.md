@@ -121,7 +121,7 @@ Statistical indicators include p‑value, z‑statistic, Cohen’s h effect size
 | E‑commerce Conversion | 5,000 / 5,000                               | `converted`, `revenue`       | Add-to-cart funnel optimization               |
 | Email Campaign        | 8,000 / 8,000                               | `opened`, `clicked`          | Email subject line and call-to-action testing |
 
-**Data Quality**: Simulated datasets reflect real-world distribution, no missing values. Production pipelines include schema validation, outlier detection, and imputation strategies.
+**Data Quality**:Production pipelines include schema validation, outlier detection, and imputation strategies.
 
 ---
 
