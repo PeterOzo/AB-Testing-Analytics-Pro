@@ -12,7 +12,7 @@
 
 Click the Live Demo badge above for an interactive tour of the AnalyticsPro dashboard!
 
-For full details, see the [Executive Report (PDF)](docs/Executive_Report_AnalyticsPro.pdf)
+For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/AB-Testing-Analytics-Pro/blob/main/A_B_Testing_Statistical_Experiment.pdf)
 
 ![Overview](assets/overview.png)
 ![Dataset Analysis](assets/dataset_analysis.png)
@@ -242,4 +242,4 @@ print(f"Required sample per group: {int(required_n)}")
 **Affiliation**: American University – Data Science Program
 **Contact**: [po3783a@american.edu](mailto:po3783a@american.edu)
 
-*For detailed methodology and full statistical derivations, refer to the [Executive Report (PDF)](docs/Executive_Report_AnalyticsPro.pdf).*
+*For detailed methodology and full statistical derivations, refer to the [Executive Report (PDF)](https://github.com/PeterOzo/AB-Testing-Analytics-Pro/blob/main/A_B_Testing_Statistical_Experiment.pdf).*
