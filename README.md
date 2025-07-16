@@ -14,7 +14,7 @@ Click the Live Demo badge above for an interactive tour of the AnalyticsPro dash
 
 For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/AB-Testing-Analytics-Pro/blob/main/A_B_Testing_Statistical_Experiment.pdf)
 
-![Overview](assets/overview.png)
+![Overview](assets/overview.png) 
 ![Dataset Analysis](assets/dataset_analysis.png)
 ![Power Calculator](assets/power_calculator.png)
 ![Live Experiment](assets/live_experiment.png)
