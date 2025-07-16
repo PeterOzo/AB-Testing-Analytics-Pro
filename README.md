@@ -18,7 +18,7 @@ For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/A
 ![Dataset Analysis](assets/dataset_analysis.png)
 ![Power Calculator](assets/power_calculator.png)
 ![Live Experiment](assets/live_experiment.png)
-![Reports](assets/report_section.png)
+![Reports](https://github.com/PeterOzo/AB-Testing-Analytics-Pro/blob/main/A_B_Testing_Statistical_Experiment.pdf)
 
 Revolutionizing business experimentation through professional-grade A/B testing methodologies, AnalyticsPro integrates frequentist and Bayesian statistical analysis, power and sample size calculations, sequential testing with early stopping, multiple testing corrections, and comprehensive business impact assessments into a unified, production-ready Streamlit application.
 
