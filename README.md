@@ -14,24 +14,6 @@ Click the Live Demo badge above for an interactive tour of the AnalyticsPro dash
 
 For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/AB-Testing-Analytics-Pro/blob/main/A_B_Testing_Statistical_Experiment.pdf)
 
-![Overview](<img width="1810" height="813" alt="image" src="https://github.com/user-attachments/assets/b26ec614-b70a-469b-8c3f-5611e827993c" />) 
-
-![Power Calculator](<img width="1781" height="816" alt="image" src="https://github.com/user-attachments/assets/91ce9e0e-f6e8-4694-8488-8ed2b37eca73" />)
-
-![Power Calculator](<img width="1781" height="816" alt="image" src="https://github.com/user-attachments/assets/91ce9e0e-f6e8-4694-8488-8ed2b37eca73" />)
-
-![Power Calculator](<img width="1506" height="731" alt="image" src="https://github.com/user-attachments/assets/030d218a-88d4-4ef1-8e0d-17c3185225e8" />)
-
-![Power Calculator](<img width="1509" height="816" alt="image" src="https://github.com/user-attachments/assets/fc4225e7-96b3-4638-9c95-dd97e5121454" />)
-
-![Power Calculator](<img width="1501" height="481" alt="image" src="https://github.com/user-attachments/assets/e3d3debd-7e96-47ba-b251-b3aae37f43ce" />)
-
-![Power Calculator](<img width="659" height="725" alt="image" src="https://github.com/user-attachments/assets/58849b3e-fa7e-4e54-8616-8c9bcd8fa429" />)
-
-![Live Experiment](<img width="1072" height="764" alt="image" src="https://github.com/user-attachments/assets/7aae7367-be14-4225-b68c-a076afa4eb90" />)
-
-![Reports](https://github.com/PeterOzo/AB-Testing-Analytics-Pro/blob/main/A_B_Testing_Statistical_Experiment.pdf)
-
 Revolutionizing business experimentation through professional-grade A/B testing methodologies, AnalyticsPro integrates frequentist and Bayesian statistical analysis, power and sample size calculations, sequential testing with early stopping, multiple testing corrections, and comprehensive business impact assessments into a unified, production-ready Streamlit application.
 
 ---
