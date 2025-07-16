@@ -1,6 +1,6 @@
 # 🧪 AnalyticsPro | Advanced A/B Testing Platform: Statistical Experimentation Framework with Business Intelligence Integration   
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-brightgreen)](https://analyticspro-demo.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-brightgreen)]([https://analyticspro-demo.streamlit.app/](http://ab-testing-analytics-pro-n9vlcrqj8cjxeynvte3u7g.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![SciPy](https://img.shields.io/badge/SciPy-1.10+-blue.svg)](https://www.scipy.org/)
