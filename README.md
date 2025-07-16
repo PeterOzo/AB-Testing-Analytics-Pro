@@ -28,7 +28,7 @@ Revolutionizing business experimentation through professional-grade A/B testing 
 
 **Primary Challenge**: How can digital product and marketing teams leverage an all-in-one, code‑free A/B testing platform to design, analyze, and interpret experiments with statistical rigor, ensuring actionable insights drive retention, conversion, and revenue growth?
 
-**Detailed Context**: Marketing channels—web, email, in-app—generate vast user event data, yet teams face:
+**Detailed Context**: Marketing channels web, email, in-app—generate vast user event data, yet teams face:
 
 * Visualization silos between BI tools and code notebooks
 * Manual data wrangling that delays hypothesis testing
