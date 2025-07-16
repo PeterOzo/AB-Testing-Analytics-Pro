@@ -12,7 +12,7 @@
 
 Click the Live Demo badge above for an interactive tour of the AnalyticsPro dashboard!
 
-For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/AB-Testing-Analytics-Pro/blob/main/A_B_Testing_Statistical_Experiment.pdf)
+For full details, see the [Executive Report (PDF)](https://github.com/PeterOzo/AB-Testing-Analytics-Pro/blob/main/A_B_Testing_Statistical_Experiment.pdf) 
 
 Revolutionizing business experimentation through professional-grade A/B testing methodologies, AnalyticsPro integrates frequentist and Bayesian statistical analysis, power and sample size calculations, sequential testing with early stopping, multiple testing corrections, and comprehensive business impact assessments into a unified, production-ready Streamlit application.
 
